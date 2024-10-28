@@ -2,7 +2,7 @@
   "name": "javascript-data-structures-algorithm",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
+    "scripts": {
     "test": "jest"
   },
   "keywords": [],

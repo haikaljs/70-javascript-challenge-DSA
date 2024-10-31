@@ -17,4 +17,4 @@ function maxNumber(arr) {
   return max;
 }
 
-console.log(maxNumber([1, 2, 3, 4, 5, 6, 7, 8, 100, 800]));
+console.log(maxNumber([1000, 2, 3, 4, 5, 6, 7, 8, 100, 800]));
